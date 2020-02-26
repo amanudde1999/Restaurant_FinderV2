@@ -1,0 +1,2 @@
+# Restaurant_FinderV2
+Description: The second part of this assignment involves the use of the joystick to move the cursor around the map displayed on the TFT Display, you can also view which restaurants are near you in Mode 1 and find out exactly where they are on the map. Moreover, there are now two buttons, one on the top right and one on the bottom right of the screen. These will restrict the restaurant choices depending on the rating the top right button displays and the sorting algorithm will change depending on the bottom right button.
