@@ -24,11 +24,15 @@ Required Components:
 
 Wiring Instructions:
 -------------------------
-- Arduino Analog Pin A8 <--> Joystick VRy (bend wire)
-- Arduino Analog Pin A9 <--> Joystick VRx (bend wire)
-- Arduino Digital Pin 53 <--> Joystick SW 
-- Arduino GND <--> Joystick GND
-- Arduino 5V <--> Joystick 5V
+
+| Joystick Pins | Arduino Pins |
+| ------------ | ------------ |
+| VRx | A8 |
+| VRy | A9 |
+| SW  | Digital Pin 53|
+| GND | GND |
+| +5V | 5V |
+
 - Arduino <--> LCD Screen
 
 
